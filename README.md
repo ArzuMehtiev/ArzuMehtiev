@@ -2,7 +2,7 @@
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
-- 🎉 I love playing chess
+- 🎉 I love playing chess and enjoy mining
 - 🥅 I am constantly learning new things
 
 ### Languages and Tools:
