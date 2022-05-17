@@ -1,7 +1,5 @@
 ### Salam 👋, I'm Arzu
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love playing chess
