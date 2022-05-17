@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎉 I love playing chess
 - 🥅 I am constantly learning new things
